@@ -1,0 +1,20 @@
+# https://t.me/Dolphin_emby
+DOMAIN,public.emby.ws
+
+# https://t.me/viper_emby_channel
+DOMAIN,emby.agon.cf
+DOMAIN,alist-proxy.viper.pub
+
+# 酷安
+IP-CIDR,150.230.233.218/32,no-resolve
+IP-CIDR,140.238.6.215/32,no-resolve
+
+# Misty
+DOMAIN,misty.ltd
+
+# 垃圾影音
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,loseremby.org
+
+# 野兽
+DOMAIN-SUFFIX,mius.uk
