@@ -2,6 +2,9 @@ DOMAIN-SUFFIX,mega.co.nz
 DOMAIN,storage.googleapis.com
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,drive.usercontent.google.com
+DOMAIN-SUFFIX,software.download.prss.microsoft.com
+DOMAIN,download.pytorch.org
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,dl.sourceforge.net
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN,objects.githubusercontent.com
